@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Derick 👋 </h1>
-<h2 align="center">A web developer looking for new learning and passionate about technology</h2>
+<h2 align="center">Front-end developer constantly learning.</h2>
 
 
-- 🌱 I’m currently learning HTML, CSS, Javascript, React, Node.js and Java.
+- :rocket: HTML, CSS, JavaScript, ReactJS, NodeJS
 
 - 📫 How to reach me derickcjesus@gmail.com
