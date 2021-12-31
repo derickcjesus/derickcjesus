@@ -2,6 +2,6 @@
 <h2 align="center">Front-end developer constantly learning.</h2>
 
 
-- :rocket: HTML, CSS, JavaScript, ReactJS, NodeJS
+- :rocket: HTML, CSS, JavaScript, ReactJS, NodeJS and Java
 
 - 📫 How to reach me derickcjesus@gmail.com
